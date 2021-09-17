@@ -1,4 +1,4 @@
-# SISTEMA DE RIEGOAUTOONOMO CON SENSOR DE HUMEDAD
+# SISTEMA DE RIEGO AUTOÓNOMO CON SENSOR DE HUMEDAD
 
 En la actualidad es difícil llevar un control eficiente en el riego de las plantas ya sea en la jardinería o agricultura, puesto que son muchos factores para tomar en consideración como lo es abastecimiento de luz solar, nutrientes, medicamentos, entre otras atenciones. En agricultura de precisión es necesario optimizar la utilización y aplicación de los suministros con los cuales se cuenta así pues se observa como en naciones pertenecientes a la geografía del Medio Oriente árabe, se hizo imprescindible la implementación de sistemas de riego autónomos, que permiten utilizar el vital líquido de forma eficiente y eficaz.
 
